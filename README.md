@@ -3,11 +3,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **PocketZoo, a treasure hunt web app**
-
-- 🌱 I’m currently learning **Vue.js and JavaScript**
-
 - 💬 I'll use my GitHub mostly to **practice web-development and do some smaller personal projects**
+
+- 🔭 Currently, I'm working on **PocketZoo, a treasure hunt web app**
+
+- 🌱 I’m also learning **Vue.js and JavaScript**
 
 - 📫 How to reach me: **laura.beckerv@gmail.com**
 
